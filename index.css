@@ -1,0 +1,29 @@
+span {
+    display: inline-block;
+    width: 20%;
+    height: 100px;
+    padding: 5px;
+    margin: auto;
+}
+
+span img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+div {
+    font-family: sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+#mini-layout {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: space-around;
+    height: 300px;
+    width: 100vw;
+}
